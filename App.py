@@ -229,8 +229,8 @@ def get_correct_filename(original_filename, scale, format_type):
 
 def main():
     """Interface principale Streamlit"""
-    st.title("🖼️ Amélioration d'images IA")
-    st.markdown("*Augmentez la résolution et la qualité de vos images*")
+    st.title("🖼️ Resolution Booster")
+    st.markdown("*Augmentez la résolution, la taille et la qualité de vos images*")
     st.markdown("---")
     
     # Section configuration au-dessus des colonnes
